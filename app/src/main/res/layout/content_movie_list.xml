@@ -8,10 +8,13 @@
     tools:context="a1138080fabflix.a211.a36.http52.fabflix.MovieList"
     tools:showIn="@layout/activity_movie_list">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
 
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:inputType="text"
+      android:background="#f9eeee"
+        android:id="@+id/keywords"
+        android:hint="@string/search_box"
+        android:height="30dp" />
 </android.support.v4.widget.NestedScrollView>

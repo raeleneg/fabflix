@@ -18,6 +18,7 @@
     <string name="title_activity_movie_list">MovieList</string>
     <string name="large_text"> "Sample large text"</string>
     <string name="action_settings">Settings</string>
+    <string name="search_box"> "Search for a title..."</string>
 
     <string name="server">https://52.36.211.113:8443/</string>
 </resources>
