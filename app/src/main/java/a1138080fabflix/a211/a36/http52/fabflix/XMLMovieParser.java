@@ -13,7 +13,6 @@ import java.nio.charset.Charset;
 
 /**
  * Created by raele on 5/17/2016.
-NOTE: we aren't using this yet
  */
 public class XMLMovieParser implements MovieParser{
 
