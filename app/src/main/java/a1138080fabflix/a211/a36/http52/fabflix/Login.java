@@ -367,8 +367,6 @@ public class Login extends AppCompatActivity implements LoaderCallbacks<Cursor> 
 
              if (success) {
                 //NOTE: redirects from login to homescreen
-                 //Intent i = new Intent(Login.this, HomeScreen.class);
-
                  Intent i = new Intent(Login.this, MovieList.class);
                 startActivity(i);
 
