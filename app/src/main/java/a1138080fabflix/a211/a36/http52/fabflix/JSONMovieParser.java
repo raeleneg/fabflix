@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 
 /**
  * Created by raele on 5/17/2016.
+ * NOTE: we aren't using this yet
  */
 public class JSONMovieParser implements MovieParser {
 
